@@ -1,1 +1,12 @@
 # prime_video-Power-Bi-dashboard
+The Prime Video content dashboard offers an extensive analysis of the streaming platform's library, covering a century of media from 1920 to 2021. The dashboard showcases a total of 9,655 titles, categorized into 519 genres, and directed by 5,771 filmmakers. This comprehensive dataset includes 25 distinct ratings, reflecting the diverse content available on the platform.
+
+The rating distribution shows that content rated 13+ is the most prevalent with 2,100 shows, followed by 16+ with 1,500 shows. Other significant ratings include ALL (1,300 shows), 18+ (1,200 shows), R (1,000 shows), and smaller categories like PG-13 and 7+, each with 400 shows. This variety ensures that Prime Video caters to a broad audience with varying preferences and age-appropriate content.
+
+In terms of genre, Drama leads with 986 shows, highlighting its popularity among viewers. Comedy follows with 536 shows, and genres combining elements such as Drama/Suspense and Comedy/Drama also feature prominently, with 399 and 377 shows respectively. Other notable genres include Animation/Kids (356 shows), Documentary (350 shows), Kids (334 shows), and Action/Drama (297 shows). This diverse genre distribution illustrates Prime Video's extensive and varied content library, catering to a wide range of tastes and interests.
+
+The timeline of total shows released each year indicates a steady growth in content production, with a significant spike in recent years. The graph shows minimal releases during the early decades, gradually increasing and then experiencing a dramatic rise around the early 2000s. The peak occurs in 2021, with 1,442 shows released, reflecting the streaming service's rapid expansion and increasing popularity.
+
+Moreover, the dashboard highlights the distribution of movies versus TV shows. TV shows dominate the platform, making up 80.82% (7,810 titles) of the total content, while movies constitute 19.18% (1,850 titles). This skew towards TV shows suggests a strategic focus on episodic content, catering to the binge-watching trend among modern viewers.
+
+Overall, the Prime Video content dashboard effectively illustrates the platform's vast and diverse offerings, highlighting its evolution and adaptation to changing viewer preferences over the decades. The data underscores Prime Video's commitment to providing a wide array of content to satisfy its global audience.
